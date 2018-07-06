@@ -22,6 +22,7 @@ Each record in the dataset contains:
 1. Download the zip file from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Data").
 2. Unzip the file.
 3. Move the following files and folders to the same directory as the R script
+
     - 'features.txt'
     - 'test'
     - 'train'
