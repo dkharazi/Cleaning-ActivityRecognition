@@ -1,4 +1,4 @@
-Overview
+## Overview
 
 The data deals with human activity recognition, which contains recordings about 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 
